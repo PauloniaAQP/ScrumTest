@@ -10,9 +10,9 @@ assignees: ''
 ## Descripción
 <Una pequeña descripción de la historia de usuario>
 ## Tareas
-- [ ] <Link to issue (task) 1>
-- [ ] <Link to issue (task) 2>
-- [ ] <Link to issue (task) 3>
+- [ ] <Título o descripción muy pequeña del issue> <Link to issue (task)>
+- [ ] <Título o descripción muy pequeña del issue> <Link to issue (task)>
+- [ ] <Título o descripción muy pequeña del issue> <Link to issue (task)>
 ## Criterios de aceptación
 - [ ] <Criterio 1>
 - [ ] <Criterio 2>
