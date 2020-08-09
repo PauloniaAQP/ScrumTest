@@ -2,7 +2,7 @@
 name: Task
 about: Scrum task
 title: ''
-labels: ''
+labels: task
 assignees: ''
 
 ---
