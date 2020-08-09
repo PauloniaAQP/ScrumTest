@@ -1,7 +1,7 @@
 ---
 name: User history
 about: Scrum user history
-title: Comos <rol> quiero <evento> para <funcionalidad>
+title: Como <rol> quiero <evento> para <funcionalidad>
 labels: user history
 assignees: ''
 
