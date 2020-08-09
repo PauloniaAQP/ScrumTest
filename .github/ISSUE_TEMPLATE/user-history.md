@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+## Descripción
+Una pequeña descripción de la historia de usuario
 ## Tareas
 - [ ] Link to issue (task) 1
 - [ ] Link to issue (task) 2
